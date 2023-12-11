@@ -4,6 +4,7 @@ public class App {
         int x=100;
         int y=250;
         int z=x+y;
+        // 2048
   
         System.out.println("Sum of x+y = " + z);
     }
