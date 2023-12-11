@@ -1,8 +1,8 @@
 public class App {
     public static void main(String[] args) {
 
-        int x=10;
-        int y=25;
+        int x=100;
+        int y=250;
         int z=x+y;
   
         System.out.println("Sum of x+y = " + z);
